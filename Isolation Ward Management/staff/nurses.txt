@@ -1,0 +1,15 @@
+NAME - Alia Dalal
+AGE-28
+GENDER- Female
+TIMINGS - 8 AM - 4 PM
+
+
+NAME - Shanti Patil
+AGE - 25
+GENDER- Female
+TIMINGS - 4 PM - 12 AM
+
+NAME - Abhinav Gupta
+AGE - 22
+GENDER - Male
+TIMINGS - 12 AM - 8 AM

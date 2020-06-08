@@ -1,0 +1,3 @@
+Masks: 1001
+Sanitizer:2001
+Gloves3001

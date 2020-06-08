@@ -1,0 +1,14 @@
+NAME -  Naina Sharma
+AGE - 21
+GENDER - Female 
+TIMINGS - 9 AM - 5 PM
+
+NAME - Aakash Goyal 
+AGE - 19
+GENDER - Male 
+TIMINGS - 5 PM - 1 AM
+
+NAME - Aaditya Sharma  
+AGE - 22
+GENDER - Male
+TIMINGS -  1 AM - 9 AM

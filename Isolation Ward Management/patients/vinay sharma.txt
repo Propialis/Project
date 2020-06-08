@@ -1,0 +1,6 @@
+NAME - Vinay Sharma
+AGE - 69
+GENDER - Male
+SYMPTOMS - cough , high fever
+DATE OF ADMISSION - 31 March 2020
+BED NUMBER - 03

@@ -1,0 +1,6 @@
+NAME - Mudit Sharma 
+AGE - 6 
+GENDER - Male
+SYMPTOMS - cough , fever
+DATE OF ADMISSION - 1 April 2020
+BED NUMBER - 04

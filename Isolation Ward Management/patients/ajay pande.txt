@@ -1,0 +1,7 @@
+
+NAME - Ajay Pande 
+AGE - 60
+GENDER - Male
+SYMPTOMS - cough , difficulty in breathing
+DATE OF ADMISSION - 31 March 2020
+BED NUMBER - 05

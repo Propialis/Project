@@ -1,0 +1,3 @@
+Hydroxychloroquine: 200
+Paracetamol: 202
+Anti malarial drugs: 204

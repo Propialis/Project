@@ -1,0 +1,6 @@
+NAME: raj bali
+AGE: 24
+GENDER: M
+Date Of Admission: 14-3-2020
+Symptoms: ough,High fever, Shortness of breath
+Bed Number: 12

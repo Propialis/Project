@@ -1,0 +1,7 @@
+Beds:-
+Available 			50
+Occupied			12
+
+Ventilators:-
+Available			10
+Occupied			2

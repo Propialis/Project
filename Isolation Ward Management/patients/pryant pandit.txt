@@ -1,0 +1,6 @@
+NAME: pryant pandit
+AGE: 12
+GENDER: f
+Date Of Admission: 1234567
+Symptoms: high fever
+Bed Number: 1234

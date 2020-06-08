@@ -1,0 +1,6 @@
+NAME - Anushka Gupta 
+AGE - 44
+GENDER - Female 
+SYMPTOMS - high fever
+DATE OF ADMISSION - 2 April 2020
+BED NUMBER -  01
